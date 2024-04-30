@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan Fronted Developer 
 - 👀 I’m interested in making responsive website 
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ...
 -  I am self taught fronted web developer from india.
 -  i enjoy taking up complex problem and turning into simple and beautiful interface design.
